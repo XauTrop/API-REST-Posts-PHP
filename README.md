@@ -9,3 +9,4 @@ The handling of the statement to the DB is done by using PDO.
 
 The different operatives have been tested using reqbin.com.
 
+The DB credits go for D. Alcolea.
