@@ -7,3 +7,5 @@ This simple example using native PHP with OOP implements a the operations of cre
 This example also includes the trait functionality for a better re-use of the code.
 The handling of the statement to the DB is done by using PDO.
 
+The different operatives have been tested using reqbin.com.
+
